@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/andreasmn/unter/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/andreasmn/unter/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1535115026
+  }
+}
